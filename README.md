@@ -1,2 +1,4 @@
 # Hyperparameter_Tuning-_RayTune
-Example of Hyperparameter Tuning using Ray Tune
+
+Example of Hyperparameter Tuning using Ray Tune [https://docs.ray.io/en/latest/index.html]. Ray Tune is a powerful, scalable library for hyperparameter tuning that supports a wide range of optimization algorithms, such as  random search, Bayesian optimization, population-based training, and Tune Trial Schedulers. We can esaly integrate it with popular machine learning frameworks like PyTorch, TensorFlow, and XGBoost, allowing efficient experimentation on single machines or distributed clusters. Ray Tune's main advantages include its ability to manage complex tuning workflows, seamlessly scale from local to cloud resources, and provide advanced features like early stopping, trial scheduling, and resource-efficient parallelism. This makes it ideal for optimizing model performance in both research and production environments.
+In this example, I demonstrate a simple usage of the Ray Tune framework.
